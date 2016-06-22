@@ -6,10 +6,10 @@ by M.L. Fredman and R.E. Tarjan. 1987. These heaps has only a single root, does 
 and the outcomes of all comparisons done by the algorithm are explicitly represented in the data structure. 
 
 #Bounds:
-##Insert: Θ(1) 
-##FindMin: Θ(1)
-##DeleteMin: O(log n)†
-##Decrease-Key: Θ(1)†
+###Insert: Θ(1) 
+###FindMin: Θ(1)
+###DeleteMin: O(log n)†
+###Decrease-Key: Θ(1)†
 
 † = amortized
 
